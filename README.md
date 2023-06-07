@@ -196,14 +196,14 @@ Home target
 
 
 
-##Program:
+## Program:
 /*
  
 Developed by: v.sreeja
 RegisterNumber:  212222230169
 */
  
- import sys
+import sys
 import os
 sys.path.append(os.path.abspath(r"""E:/RoboDK/Posts/""")) # temporarily add path to POSTS folder
 
@@ -238,10 +238,10 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""
 ```
 
  
-### simulation :
+## simulation :
 
 ![Screenshot (301)](https://github.com/VelasiriSreeja/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/assets/118344328/4498e1c4-fce7-4c76-b30e-7de73095e6e2)
 
-### Result:
+## Result:
 The painting environment for a serial manipluator has been created and the surface for the same has been thaught.
  
